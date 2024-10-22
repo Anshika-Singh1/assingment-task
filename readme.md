@@ -26,7 +26,8 @@ The 360-degree rotation of the circle containing the icons is powered. The rotat
 4. Open the index.html file in your web browser to view the project.
 
 # Hosting
-After completing the project, it is hosted on GitHub Pages for public access. 
+After completing the project, it is hosted on GitHub Pages for public access. You can visit the live demo here:
+-- **Live Demo:** https://anshika-singh1.github.io/assingment-task/
 
 # Task Requirements Recap:
 1. All code inside a div with ID assignment.
